@@ -36,6 +36,7 @@ as the source.
 - The message must be longer than 5 characters and cannot be longer than 256 characters. Please be
 straightforward, definite and short. Do not try to explain the details of the situation, but
  keep in mind what would've helped you the most when you got this exception for the first time.
+Do not cover multiple situations, rather write them as separate tips.
 - The source url should be filled only if tip you wrote is an extract of a content from an other
 site on the Internet. Please always give credit to the original authors by linking the specific answer:
     - on Stack Overflow, click the 'share' label under the answer and copy&paste that link
