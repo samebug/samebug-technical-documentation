@@ -1,11 +1,11 @@
-# Install the IntelliJ Idea plugin
+# Install the Android Studio plugin
 
 JetBrains maintains a repository of plugins and offers seamless installation. However, when
 something goes wrong you can fall back to manual installation.
 
 ## Prerequisites
 
-You can install the plugin for IntelliJ Idea 15 or later versions.
+You can install the plugin for Android Studio 2.1 or later versions.
 
 ## Best case: install from repository
 
@@ -19,7 +19,7 @@ Don't forget that you have to restart the IDE to make the install take effect.
 It can happen that Idea is unable to find the plugin. In this case you have to download
 the plugin from the JetBrains plugin repository and install manually.
 
-1. Download the latest plugin version from the [repository](https://plugins.jetbrains.com/plugin/8174-samebug)
+1. Download the latest plugin version from the [repository](https://plugins.jetbrains.com/plugin/9380-samebug)
 2. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, and click ‘Install plugin from disk…’ in the bottom right corner.
 Select the zip file you downloaded in the first step and restart the IDE.
 
