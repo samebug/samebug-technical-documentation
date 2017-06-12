@@ -39,6 +39,15 @@ stack trace match suggests they can help.
 ## Revoke help request
 
 If you are no longer interested in answers to your help request, you can revoke it on the same 
-page where you requested it, at the moment it does not happen automatically even if you mark
+page where you requested it. At the moment it does not happen automatically even if you mark
 one of the answers helpful.
 
+## Privacy
+
+We know that many information that Samebug deals with might be sensitive, we have an
+adequate idea about [privacy](privacy.md) even in this early phase.
+
+In the context of bugmates these concepts translate to:
+- If your searches are *Public*, other users can find you via bugmate match, and read the stack trace of the crash had.
+- If your searches are *Searchable*, other users can find you via bugmate match, but will not see the stack trace of the crash you had.
+- If your searches are *Private*, you will never show up as a bugmate for people who cannot access your workspace.
