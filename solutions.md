@@ -5,7 +5,7 @@ Paste the full [stack trace](stacktrace.md) to the search box and you will be pr
 
 ## Samebug tips
 
-[Tips](write-tips.md) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about
+[Tips](write-tip.md) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about
 how to fix or workaround the problem as soon as possible. Often they are just the essence of a longer discussion,
 e.g. the extract of the accepted answer of a Stack Overflow question. In these cases you will find the url of the
 source referred in the tip if you want check the details.
