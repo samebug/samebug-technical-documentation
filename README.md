@@ -1,5 +1,7 @@
 # Samebug
 
+Samebug automatically locates relevant solutions to your software crash from its expert community and solution database.
+
 ## Search with a stack trace
 
 By searching with a [stack trace](stacktrace.md) Samebug can provide you a
@@ -19,19 +21,19 @@ continuosly growing database and select the most relevant solution.
 
 Samebug’s solution database is also run by the community. Based on your search result,
 Samebug connects you to other community members, your [Bugmates](bugmates.md), who have
-the same problem. You can [ask](help-request.md) or [provide](write-tip.md)
+the same problem. You can [ask](help-requests.md) or [provide](write-tip.md)
 help to other community members.
 
 ### Mark the best solutions
 
 The semantical stack trace similarity algorithm can find you the most relevant stack trace, but
-not the most relevant content. We need the Community to rate the solutions in order to make
-Samebug learn what are the good solutions.
+not the most relevant content. We need the Community to [rate the solutions](rating-solutions.md)
+in order to make Samebug learn what are the good solutions.
 
 ## Privacy
 
 [Your stack trace](privacy.md) belongs only to you. Once you register, Samebug will never
-share your stack trace without your permission.
+share your stack trace [without your permission](workspace.md).
 
 ## Integrated with your IDE
 

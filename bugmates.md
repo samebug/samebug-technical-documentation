@@ -1,7 +1,7 @@
 # Bugmates
 
-When you search with a stack trace, Samebug will show your bugmates along with other solutions.
-Bugmates are actually crash tags, Samebug users associated with stack traces. 
+When you search with a [stack trace](stacktrace.md), Samebug will show your bugmates along with other [solutions](solutions.md).
+Bugmates are actually [crash tags](rating-solutions.md), Samebug users associated with stack traces. 
 
 ## Rationale
 
@@ -13,7 +13,7 @@ every day, but only a small portion of these crashes get documented by people wh
 on forums.
 
 Bugmates are Samebug's concept to make this situation better. Every stack trace search executed
-on the web and every crash logged during development in the IDE (assuming the Samebug plugin
+on the web and every crash logged during development in the IDE (assuming the [Samebug plugin](integration/intellij-idea/install.md)
 is installed) will be associated with the Samebug user. In some cases these people just ignore
 the exception, others will workaround it or put more or less time into finding the solution,
 but only in the rarest case will someone document the problem and the solution e.g. in a blog post.
@@ -22,7 +22,7 @@ However, because they use Samebug, their effort and knowledge is no longer in is
 ## Asking bugmates
 
 Now if you have an exception and check it on Samebug, even if it doesn't have a solutions,
-you might find your bugmates there, and you can send them a help request.
+you might find your bugmates there, and you can send them a [help request](help-requests.md).
 
 A help request is a stack trace and the description of the problem. The description might be
 helpful for your bugmates to identify the problem in cases when the stack trace is not enough,

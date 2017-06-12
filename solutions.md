@@ -1,11 +1,11 @@
 # Solutions
 
 On of the core features of Samebug is that you can use it as a search engine for exceptions.
-Paste the full stack trace to the search box and you will be presented by two kind of solutions: tips and external solutions.
+Paste the full [stack trace](stacktrace.md) to the search box and you will be presented by two kind of solutions: tips and external solutions.
 
 ## Samebug tips
 
-Tips are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about
+[Tips](write-tips.md) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about
 how to fix or workaround the problem as soon as possible. Often they are just the essence of a longer discussion,
 e.g. the extract of the accepted answer of a Stack Overflow question. In these cases you will find the url of the
 source referred in the tip if you want check the details.
@@ -20,4 +20,4 @@ External solutions are usually less valuable than tips, as Samebug guarantees on
 on that site, but currently we cannot make sure that the discussion you find there will be actually helpful.
 Even if it does help, probably you will have to read e.g. a longer forum thread to extract the actual fix.
 In these cases, if you can distil the solution to a few sentences, it is a nice gesture towards the Community to
-write a tip and save them the effort of going through the discussion.
+[write a tip](write-tip.md) and save them the effort of going through the discussion.

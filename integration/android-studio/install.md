@@ -1,5 +1,8 @@
 # Install the Android Studio plugin
 
+The plugin allows you to use Samebug directly from Android Studio (or [IntelliJ Idea](../intellij-idea/install.md)),
+get solutions or ask for help without abandoning your workflow.
+
 JetBrains maintains a repository of plugins and offers seamless installation. However, when
 something goes wrong you can fall back to manual installation.
 

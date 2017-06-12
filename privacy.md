@@ -18,6 +18,11 @@ For every content you create on Samebug (at the moment there are crashes and sol
 | Searchable | Crash    | never see the stack trace, but can see that you had a crash similar to his one |
 | Searchable | Solution | never see the stack trace, but can see the solution that you wrote |
 
+## How to set the visibility of your content
+
+Any content you create will inherit the visibility of the [workspace](workspace.md) where it was created.
+Changing the visibility of a single content is not possible currently; in case you want to do this please [contact us](mailto:hello@samebug.io)
+
 ## Which visibility level to use
 
 Chosing which visibility level you should use depends on your situation. The more open you are, the more you give to the Community, and the less compensation we ask.
