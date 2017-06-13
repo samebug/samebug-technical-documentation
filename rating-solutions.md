@@ -13,7 +13,7 @@ that you found worthy. This simple click has multiple effects:
 more likely it contains some useful information
 - if the solution was a [tip](write-tip.md) written by a Samebug user, he will get recognition for writing
 helpful tips
-- Samebug search algorithm will have more information to weigth the value of the solutions
+- Samebug search algorithm will have more information to weight the value of the solutions
 - a new crash tag will be created combining the stack trace you used for search and the
  content of the solution you marked
 
