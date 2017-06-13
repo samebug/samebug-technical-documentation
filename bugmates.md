@@ -36,7 +36,7 @@ is not realistic to expect them to write and publish the solution for all of the
 - The bugmates won't be spammed with irrelevant help requests, they see only those where the 
 stack trace match suggests they can help.
 
-## Revoke help request
+## Cancel help request
 
 If you are no longer interested in answers to your help request, you can revoke it on the same 
 page where you requested it. At the moment it does not happen automatically even if you mark
