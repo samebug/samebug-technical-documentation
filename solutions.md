@@ -1,6 +1,6 @@
 # Solutions
 
-On of the core features of Samebug is that you can use it as a search engine for exceptions.
+One of the core features of Samebug is that you can use it as a search engine for exceptions.
 Paste the full [stack trace](stacktrace.md) to the search box and you will be presented by two kind of solutions: tips and external solutions.
 
 ## Samebug tips
