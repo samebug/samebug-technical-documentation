@@ -12,7 +12,7 @@ source referred in the tip if you want check the details.
 
 ## External solutions
 
-Samebug has a database of more than a million stack traces available on the Internet like
+Samebug has a database of more than a million stack traces available on the Internet, from sites like
 Stack Overflow, GitHub issues, Google Groups and other mailing lists.
 If Samebug finds an exception that is similar to your query, it will show you links to these discussions.
 
