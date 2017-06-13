@@ -5,7 +5,7 @@ wrong inside a JVM application, frequently they show the raw stack trace on the 
 
 While the usefulness of a stack trace for a usual user is debatable, it is clear that this snippet of
 text contains a lot of information about the problem and helps identifying the cause. However, a raw
-stack trace is closer to the machine than to humans.
+stack trace is closer to machines than to humans.
 
 ## What is a stack trace
 
