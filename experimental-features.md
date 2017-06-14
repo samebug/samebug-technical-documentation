@@ -1,4 +1,4 @@
-# Explore
+# Experimental features
 
 Samebug does not handle stack traces as plain text, but has a deep understanding on them;
 knows about exception type hierarchies, chained exceptions, generated codes and third party libraries.
@@ -7,7 +7,7 @@ third party component not only made our stack trace similarity metrics better, b
 gave us some really exciting oppurtinities. While this is not our main focus now, we still
 want to show this interesting dataset and give you an idea about our future plans with this.
 
-## Crash statistics
+## Explore, crash statistics
 
 Have you ever been in a situation where you had to evaluate open source alternatives of a library?
 You check the features they offer, take a look at the speed of development and support,

@@ -1,6 +1,6 @@
 # Bugmates
 
-When you search with a [stack trace](stacktrace.md), Samebug will show your bugmates along with other [solutions](solutions.md).
+When you [search](search.md) with a [stack trace](stack-trace.md), Samebug will show your bugmates along with other [solutions](solutions.md).
 Bugmates are actually [crash tags](rating-solutions.md), Samebug users associated with stack traces. 
 
 ## Rationale
@@ -35,6 +35,7 @@ is not realistic to expect them to write and publish the solution for all of the
 - You don't have to dig deep in a library looking for a problem that other people have already solved
 - The bugmates won't be spammed with irrelevant help requests, they see only those where the 
 stack trace match suggests they can help.
+- When you mark the solution as helpful, you boost the author's [profile](profile.md).
 
 ## Revoke help request
 

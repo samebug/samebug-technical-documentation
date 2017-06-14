@@ -4,7 +4,7 @@ Samebug automatically locates relevant solutions to your software crash from its
 
 ## Search with a stack trace
 
-By searching with a [stack trace](stacktrace.md) Samebug can provide you a
+By [searching](search.md) with a [stack trace](stack-trace.md) Samebug can provide you a
 more relevant [solution](solutions.md)
 to your software crashes. You don’t have to browse through endless forums
 and developer communities.
@@ -14,7 +14,7 @@ and developer communities.
 ### Check existing solutions
 
 Our search engine has indexed more than 1,200,000 exceptions and its [solutions](solutions.md)
-from the web. When searching with your [stack trace](stacktrace.md) we browse through our
+from the web. When [searching](search.md) with your [stack trace](stack-trace.md) we browse through our
 continuosly growing database and select the most relevant solution.
 
 ### Ask for help from other developers
@@ -42,6 +42,11 @@ others with the same bug and write solutions without switching to the internet
 and abandoning your workflow. Install it for [IntelliJ Idea](integration/intellij-idea/install.md)
 or for [Android Studio](integration/android-studio/install.md).
 
-## Explore our database
+## Experimental features, feature request
 
-Samebug want to share knowledge, you are free to [explore](explore.md) what we have found on the web.
+Samebug aggregates a huge amount of information collected from the Internet and from our users.
+We want to share this knowledge, and we have a lot of ideas how to present and use this data,
+but it is not our focus. Check our [experimental features](experimental-features.md) if you are
+interested.
+
+If you have an other idea what Samebug can be used for, feel free to [contact us](mailto:hello@samebug.io).

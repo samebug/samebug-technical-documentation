@@ -9,14 +9,16 @@ For every content you create on Samebug (at the moment there are crashes and sol
 
 ## Detailed explanation
 
-| Visibility | Content | What an unprivileged user can do |
-|---|---|---|
-| Public     | Crash    | see the stack trace, see that you had a crash with this stack trace |
-| Public     | Solution | see the stack trace, see the solution you wrote |
-| Private    | Crash    | see nothing, neither the stack trace nor that you had it | 
-| Private    | Solution | see nothing, neither the stack trace nor the solution |
-| Searchable | Crash    | never see the stack trace, but can see that you had a crash similar to his one |
-| Searchable | Solution | never see the stack trace, but can see the solution that you wrote |
+At the moment there are two kind of data you create on Samebug: crashes and solutions.
+Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](integration/intellij-idea/install.md),
+while solutions are the [tips](write-tip.md) you can attach to stack traces. The table below shows what content could be seen
+by unprivileged users on each visibility level:
+
+| | Stack trace | Crash | Solution |
+|---|---|---|---|
+| Public     | ✅ | ✅ | ✅ |
+| Searchable | ❌ | ✅ | ✅ |
+| Private    | ❌ | ❌ | ❌ |
 
 ## How to set the visibility of your content
 

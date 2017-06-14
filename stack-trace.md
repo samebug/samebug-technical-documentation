@@ -5,7 +5,7 @@ wrong inside a JVM application, frequently they show the raw stack trace on the 
 
 While the usefulness of a stack trace for a usual user is debatable, it is clear that this snippet of
 text contains a lot of information about the problem and helps identifying the cause. However, a raw
-stack trace is closer to the machine than to humans.
+stack trace is closer to the machine than to humans, that's why we think [stack trace search](search.md) can help you.
 
 ## What is a stack trace
 
@@ -34,24 +34,3 @@ The important points here:
 - The exception might have a 'cause', a lower level exception that was wrapped in the higher level
 (in the above case, `java.lang.NumberFormatException` was wrapped in `com.samebug.test.TestException`).
 - The line starting with `...` is part of the stack trace, it is just a shorthand to reduce the length of the output.
-
-## How to use Samebug search with a stack trace
-
-When you need help for a stack trace, just copy the text of the stack trace and paste it to [Samebug](https://samebug.io/search).
-However, please be careful to copy the full text of the stack trace, and include every character
-from the beginning of the exception type until the very end of the last 'Caused by' clause if there is any. A few
-missing characters can dramatically change the meaning of the stack trace and Samebug has no means to recognize
-if you made a mistake or did that on purpose.
-
-To save you from this hassle we created the Samebug plugin for
-[IntelliJ Idea](integration/intellij-idea/install.md) and
-[Android Studio](integration/android-studio/install.md),
-which integrates Samebug to your development workflow by bringing stack trace search right where you need,
-one click away at the console of your IDE.
-
-## Why use Samebug search with a stack trace
-
-If you paste an arbitrary text to the search area of Samebug which can't be parsed as a valid stack trace,
-Samebug will fall back to text search mode. In many cases this might be still good enough for you, but
-using stack trace search will always produce more relevant results. Only when you paste a valid stack trace,
-can Samebug analyze the semantics of the stack trace and use our unique stack trace similarity algorithm.
