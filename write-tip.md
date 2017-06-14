@@ -51,4 +51,4 @@ adequate idea about [privacy](privacy.md) even in this early phase.
 In the context of tips written by you these concepts translate to:
 - If your tip is *Public*, other users can find it via stack trace search, and read the stack trace of the crash had.
 - If your tip is *Searchable*, other users can find it via stack trace search, but will not see the stack trace of the crash you had.
-- If your tip if *Private*, it will never show up to people who cannot access to your workspace.
+- If your tip is *Private*, it will never show up to people who cannot access to your workspace.

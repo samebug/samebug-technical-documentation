@@ -37,7 +37,7 @@ is not realistic to expect them to write and publish the solution for all of the
 stack trace match suggests they can help.
 - When you mark the solution as helpful, you boost the author's [profile](profile.md).
 
-## Revoke help request
+## Cancel help request
 
 If you are no longer interested in answers to your help request, you can revoke it on the same 
 page where you requested it. At the moment it does not happen automatically even if you mark

@@ -1,6 +1,6 @@
 # Solutions
 
-On of the core features of Samebug is that you can use it as a [search engine for exceptions](search.md).
+One of the core features of Samebug is that you can use it as a [search engine for exceptions](search.md).
 Paste the full [stack trace](stack-trace.md) to the search box and you will be presented by two kind of solutions: tips and external solutions.
 
 ## Samebug tips
@@ -12,7 +12,7 @@ source referred in the tip if you want check the details.
 
 ## External solutions
 
-Samebug has a database of more than a million stack traces available on the Internet like
+Samebug has a database of more than a million stack traces available on the Internet, from sites like
 Stack Overflow, GitHub issues, Google Groups and other mailing lists.
 If Samebug finds an exception that is similar to your query, it will show you links to these discussions.
 
