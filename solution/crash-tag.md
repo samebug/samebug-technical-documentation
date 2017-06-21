@@ -1,9 +1,9 @@
 # Crash tag
 
 Usually we use the terms *solution* and *crash tag* interchangeably.
-A crash tag is a [stack trace](stack-trace.md) associated with a [solution content](solution.md), which can be anything
+A crash tag is a [stack trace](../stack-trace.md) associated with a [solution content](solution.md), which can be anything
 that helps solving that exception, like a website, a Stack Overflow answer, a tip, or even
-an other Samebug user. Actually when Samebug presents you results for a [stack trace search](search.md),
+an other Samebug user. Actually when Samebug presents you results for a [stack trace search](../search/search.md),
 it presents the crash tags stored in the Samebug database.
 
 ## Creating crash tags
