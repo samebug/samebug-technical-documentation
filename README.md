@@ -1,3 +1,5 @@
+![Samebug](https://samebug.io/static/images/brand/svg/logo-light.svg)
+
 # Samebug
 
 Samebug automatically locates relevant solutions to your software crash from its expert community and solution database.
