@@ -19,7 +19,7 @@ You can grant access to other Samebug users for your workspace by adding differe
 
 ## Default workspace
 
-As we mentioned, any activity you do on Samebug happens in a workspace. If you do not specify it otherwise, this is your Default Workspace, created along with your Samebug user. You have every permission on your Default Workspace, and it is on `Searchable` [visibility](privacy.md) by default.
+As we mentioned, any activity you do on Samebug happens in a workspace. If you do not specify it otherwise, this is your Default Workspace, created along with your Samebug user. You have every permission on your Default Workspace, and it is on `Searchable` [visibility](/docs/privacy) by default.
 
 ## Managing workspaces
 

@@ -5,13 +5,13 @@ We know that privacy can be an issue when dealing with stack traces. The stack t
 For every content you create on Samebug (at the moment there are crashes and solutions), you can specify three visibility level: *Public*, *Searchable* and *Private*.
  - *Public* means that you don't consider this content sensitive. It's available openly on the Internet, anybody can access it.
  - *Private* is exactly the opposite, only those Samebug users can access it who are granted permission by you. Others won't even know it exists.
- - *Searchable* is a fine middle ground between being totally open or close. Broadly it means that your stack trace is private, but the content attached to it is public. 
+ - *Searchable* is a fine middle ground between being totally open or close. Broadly it means that your stack trace is private, but the content attached to it is public.
 
 ## Detailed explanation
 
 At the moment there are two kind of data you create on Samebug: crashes and solutions.
-Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](integration/intellij-idea/install.md),
-while solutions are the [tips](write-tip.md) you can attach to stack traces. The table below shows what content could be seen
+Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](/docs/integration/intellij-idea/install),
+while solutions are the [tips](/docs/write-tip) you can attach to stack traces. The table below shows what content could be seen
 by unprivileged users on each visibility level:
 
 | | Stack trace | Crash | Solution |
@@ -22,7 +22,7 @@ by unprivileged users on each visibility level:
 
 ## How to set the visibility of your content
 
-Any content you create will inherit the visibility of the [workspace](workspace.md) where it was created.
+Any content you create will inherit the visibility of the [workspace](/docs/workspace) where it was created.
 Changing the visibility of a single content is not possible currently; in case you want to do this please [contact us](mailto:hello@samebug.io)
 
 ## Which visibility level to use

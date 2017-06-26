@@ -2,7 +2,7 @@
 
 Samebug does not handle stack traces as plain text, but has a deep understanding on them;
 knows about exception type hierarchies, chained exceptions, generated codes and third party libraries.
-During our research we noted that having information about which stack frames belong which 
+During our research we noted that having information about which stack frames belong which
 third party component not only made our stack trace similarity metrics better, but also
 gave us some really exciting oppurtinities. While this is not our main focus now, we still
 want to show this interesting dataset and give you an idea about our future plans with this.
@@ -13,13 +13,14 @@ Have you ever been in a situation where you had to evaluate open source alternat
 You check the features they offer, take a look at the speed of development and support,
 check their issues on github. Samebug crash statistics could be a valuable addition in
 these cases, showing thing like:
+
 - how many users had crash using this library
 - how many different kind of exceptions originated from this library
 - which methods produce the most exceptions
 - can you find tips or other support for these exceptions
 
 You can see a prototype of this idea at [explore](https://samebug.io/explore). We show a list
-of third party components, and you can dig deeper by checking their packages, classes, methods, 
+of third party components, and you can dig deeper by checking their packages, classes, methods,
 and at last it shows the list of exceptions ever thrown by (or passed through) this method. Now
 click on an exception type to see the cases where this method has thrown that exception.
 
