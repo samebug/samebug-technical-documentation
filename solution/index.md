@@ -11,7 +11,7 @@ Paste the full [stack trace](/docs/stack-trace) to the search box and you will b
 
 ## External solutions
 
-![](https://samebug.io/static/docs/solution-on-the-net.png "External solution")
+![](https://samebug.io/static/images/docs/solution-on-the-net.png "External solution")
 
 Samebug has a database of more than a million stack traces available on the Internet, from sites like
 Stack Overflow, GitHub issues, Google Groups and other mailing lists.

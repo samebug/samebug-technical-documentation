@@ -12,7 +12,7 @@ shared it. They left no trace even about the fact that they had such a problem. 
 every day, but only a small portion of these crashes get documented by people who ask for solution
 on forums.
 
-![](https://samebug.io/static/docs/bugmates.png "Bugmates")
+![](https://samebug.io/static/images/docs/bugmates.png "Bugmates")
 
 Bugmates are Samebug's concept to make this situation better. Every stack trace search executed
 on the web and every crash logged during development in the IDE (assuming the [Samebug plugin](/docs/integration/intellij-idea/install)

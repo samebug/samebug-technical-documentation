@@ -9,7 +9,7 @@ we need the Community to rate them in order to make Samebug learn what are the g
 
 A tip before you mark | A tip after you marked
 :-------:|:-----------:
-![](https://samebug.io/static/docs/tip.png) | ![](https://samebug.io/static/docs/tip-marked.png)
+![](https://samebug.io/static/images/docs/tip.png) | ![](https://samebug.io/static/images/docs/tip-marked.png)
 
 On the stack trace search result page you can press 'Mark as helpful' button on the solution
 that you found worthy. This simple click has multiple effects:

@@ -9,19 +9,19 @@ We assume you already have the Samebug plugin installed. If you need help with t
 
 ## Best case: auto-update
 
-![](https://samebug.io/static/docs/update-plugin-popup.png "Plugin update notification in the bottom right corner")
+![](https://samebug.io/static/images/docs/update-plugin-popup.png "Plugin update notification in the bottom right corner")
 
 Normally, when Idea notices that a plugin update is available, you’ll see a notification. Just click on the link, and Idea will take care of the rest. Don’t forget that you have to restart the IDE to make the update take effect.
 
 ## Manual update
 
-![](https://samebug.io/static/docs/settings-plugins.png "Settings window can be opened with Ctrl+Alt+S")
+![](https://samebug.io/static/images/docs/settings-plugins.png "Settings window can be opened with Ctrl+Alt+S")
 
 If you disabled auto-update, you have to update Samebug manually. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type ‘samebug’ in the search box. If there is a new version, you just click on the blue ‘Update’ button. Don’t forget that you have to restart the IDE to make the update take effect.
 
 ## Worst case: Manual install
 
-![](https://samebug.io/static/docs/settings-plugins-remove.png "The IDE does not detect the new version, no Update button")
+![](https://samebug.io/static/images/docs/settings-plugins-remove.png "The IDE does not detect the new version, no Update button")
 
 It can happen that Idea is unable to detect new plugin versions. In this case, you have to download the new plugin version from the JetBrains plugin repository, remove your previous plugin version and install the new one.
 

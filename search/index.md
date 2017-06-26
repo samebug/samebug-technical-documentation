@@ -26,7 +26,7 @@ can Samebug analyze the semantics of the stack trace and use our unique stack tr
 
 ### Text search results
 
-![](https://samebug.io/static/docs/text-search.png "Text search")
+![](https://samebug.io/static/images/docs/text-search.png "Text search")
 
 This is the result page when you search with the first line of a StringIndexOutOfBoundsException. As you can see, the first [tip](/docs/solution)
 is silly, only the second is relevant. Also, there are more than ten thousand [external solutions](/docs/solution) (most of them are probably
@@ -34,7 +34,7 @@ not that helpful), and Samebug cannot connect you to [bugmates](/docs/bugmate).
 
 ### Stack trace search results
 
-![](https://samebug.io/static/docs/stack-trace-search.png "Stack trace search")
+![](https://samebug.io/static/images/docs/stack-trace-search.png "Stack trace search")
 
 However, when you search with the full stack trace of a StringIndexOutOfBoundsException, Samebug gives you this:
 
