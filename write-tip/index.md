@@ -40,9 +40,9 @@ straightforward, definite and short. Do not try to explain the details of the si
 Do not cover multiple situations, rather write them as separate tips.
 - The source url should be filled only if tip you wrote is an extract of a content from an other
 site on the Internet. Please always give credit to the original authors by linking the specific answer:
-    - on Stack Overflow, click the 'share' label under the answer and copy&paste that link
-    - on GitHub, click on the time label on the top of the comment and copy&paste that link
-    - on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
+	- on Stack Overflow, click the 'share' label under the answer and copy&paste that link
+	- on GitHub, click on the time label on the top of the comment and copy&paste that link
+	- on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
 
 ## Privacy
 
@@ -50,6 +50,7 @@ We know that many information that Samebug deals with might be sensitive, we hav
 adequate idea about [privacy](/docs/privacy) even in this early phase.
 
 In the context of tips written by you these concepts translate to:
-- If your tip is *Public*, other users can find it via stack trace search, and read the stack trace of the crash had.
-- If your tip is *Searchable*, other users can find it via stack trace search, but will not see the stack trace of the crash you had.
-- If your tip is *Private*, it will never show up to people who cannot access to your workspace.
+
+- If your tip is **Public**, other users can find it via stack trace search, and read the stack trace of the crash had.
+- If your tip is **Searchable**, other users can find it via stack trace search, but will not see the stack trace of the crash you had.
+- If your tip is **Private**, it will never show up to people who cannot access to your workspace.

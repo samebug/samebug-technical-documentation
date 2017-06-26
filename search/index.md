@@ -7,9 +7,7 @@ to your software crashes. You don’t have to browse through endless forums and 
 
 When you need help for a stack trace, just copy the text of the stack trace and paste it to [Samebug](https://samebug.io/search).
 However, please be careful to copy the full text of the stack trace, and include every character
-from the beginning of the exception type until the very end of the last 'Caused by' clause if there is any. A few
-missing characters can dramatically change the meaning of the stack trace and Samebug has no means to recognize
-if you made a mistake or did that on purpose.
+from the beginning of the exception type until the very end of the last 'Caused by' clause if there is any. A few missing characters can dramatically change the meaning of the stack trace and Samebug has no means to recognize if you made a mistake or did that on purpose.
 
 To save you from this hassle we created the Samebug plugin for
 [IntelliJ Idea](/docs/integration/intellij-idea/install) and

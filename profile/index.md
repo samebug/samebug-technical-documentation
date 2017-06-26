@@ -13,6 +13,7 @@ see and change your profile information, and on the tabbed view you can have an 
 ## Overview
 
 On this tab we show statistics about all your activities:
+
 - Crashes: the number of [stack trace searches](/docs/search) you submitted to Samebug.
 - Bugs: bugs are a collection of stack traces that Samebug thinks to be similar enough to treat them as the same.
 E.g. if you submit exactly the same stack trace twice, they will count as two crashes, but one bug.

@@ -5,7 +5,7 @@ Paste the full [stack trace](/docs/stack-trace) to the search box and you will b
 
 ## Samebug tips
 
-![](Samebug-Tip.png "Tip")
+![](https://samebug.io/static/images/docs/tip.png "Tip")
 
 [Tips](/docs/write-tip) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about how to fix or workaround the problem as soon as possible. Often they are just the essence of a longer discussion, e.g. the extract of the accepted answer of a Stack Overflow question. In these cases you will find the url of the source referred in the tip if you want check the details.
 
