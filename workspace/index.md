@@ -23,5 +23,5 @@ As we mentioned, any activity you do on Samebug happens in a workspace. If you d
 
 ## Managing workspaces
 
-At the moment workspaces are not an invisible feature. If you want to create new workspace, invite other users or change
+At the moment workspaces are an invisible feature. If you want to create new workspace, invite other users or change
 the default visibility, please [contact us](mailto:hello@samebug.io)
