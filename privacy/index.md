@@ -11,8 +11,8 @@ For every content you create on Samebug (at the moment there are crashes and sol
 ## Detailed explanation
 
 At the moment there are two kind of data you create on Samebug: crashes and solutions.
-Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](/docs/integration/intellij-idea/install),
-while solutions are the [tips](/docs/write-tip) you can attach to stack traces. The table below shows what content could be seen by unprivileged users on each visibility level:
+Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](/guide/integration/intellij-idea/install),
+while solutions are the [tips](/guide/write-tip) you can attach to stack traces. The table below shows what content could be seen by unprivileged users on each visibility level:
 
 | | Stack trace | Crash | Solution |
 |---|---|---|---|
@@ -22,7 +22,7 @@ while solutions are the [tips](/docs/write-tip) you can attach to stack traces. 
 
 ## How to set the visibility of your content
 
-Any content you create will inherit the visibility of the [workspace](/docs/workspace) where it was created.
+Any content you create will inherit the visibility of the [workspace](/guide/workspace) where it was created.
 Changing the visibility of a single content is not possible currently; in case you want to do this please [contact us](mailto:hello@samebug.io)
 
 ## Which visibility level to use

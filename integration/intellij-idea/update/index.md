@@ -5,7 +5,7 @@ sometimes things just don’t work, so let us give you a complete walk-through o
 
 ## Prerequisites
 
-We assume you already have the Samebug plugin installed. If you need help with the first installation, click [here](/docs/integration/intellij-idea/install)
+We assume you already have the Samebug plugin installed. If you need help with the first installation, click [here](/guide/integration/intellij-idea/install)
 
 ## Best case: auto-update
 

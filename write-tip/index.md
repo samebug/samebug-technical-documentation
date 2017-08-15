@@ -47,7 +47,7 @@ site on the Internet. Please always give credit to the original authors by linki
 ## Privacy
 
 We know that many information that Samebug deals with might be sensitive, we have an
-adequate idea about [privacy](/docs/privacy) even in this early phase.
+adequate idea about [privacy](/guide/privacy) even in this early phase.
 
 In the context of tips written by you these concepts translate to:
 
