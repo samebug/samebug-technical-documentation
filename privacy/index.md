@@ -14,11 +14,11 @@ At the moment there are two kind of data you create on Samebug: crashes and solu
 
 Crashes are the stack trace searches you paste on the site or you submit from the [IDE plugins](/guide/integration/intellij-idea/install). If your search is *Public*, everybody will be able to check the stack trace of the crash, find you as a [bugmate](/guide/bugmate) for similar stack traces and your experience with the related libraries will be displayed on your [profile](/guide/profile). On *Private* level, none of these will be visible for unprivileged users, while on *Searchable* your stack trace will be private, but the rest of the data is public.
 
-![](https://samebug.io/static/images/docs//samebug-privacy-you.png "Effect of privacy levels on your searches")
+![](https://samebug.io/static/images/docs/privacy-you.png "Effect of privacy levels on your searches")
 
 Solutions are the [tips](/guide/write-tip) you can attach to stack traces. If your solution is *Public*, everybody will be able to check the stack trace you wrote the tip for, the tip itself and your experience with the related libraries will be displayed on your [profile](/guide/profile). On *Private* level, none of these will be visible for unprivileged users, while on *Searchable* your stack trace will be private, but your tip and your experience is public.
 
-![](https://samebug.io/static/images/docs//samebug-privacy-tip.png "Effect of privacy levels on your tips")
+![](https://samebug.io/static/images/docs/privacy-tip.png "Effect of privacy levels on your tips")
 
 ## How to set the visibility of your content
 
