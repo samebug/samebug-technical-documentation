@@ -15,7 +15,7 @@ and developer communities.
 
 Our search engine has indexed more than 1,200,000 exceptions and its [solutions](/guide/solution)
 from the web. When [searching](/guide/search) with your [stack trace](/guide/stack-trace) we browse through our
-continuosly growing database and select the most relevant solution.
+continuously growing database and select the most relevant solution.
 
 ### Ask for help from other developers
 
