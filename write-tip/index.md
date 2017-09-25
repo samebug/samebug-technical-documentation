@@ -38,6 +38,7 @@ as the source.
 
 - The message must be longer than 5 characters and cannot be longer than 256 characters.
 - Use markdown where necessary to highlight code fragments and urls. Use \` for quoting inline code and \`\`\` for quoting code blocks.
+Refer to [Remarkable](https://jonschlinkert.github.io/remarkable/demo/) for more info.
 - Be straightforward, definite and short.
 - Do not try to explain the details of the situation, but keep in mind
  what would've helped you the most when you got this exception for the first time.
@@ -48,6 +49,10 @@ site on the Internet. Please always give credit to the original authors by linki
  - on Stack Overflow, click the 'share' label under the answer and copy&paste that link
  - on GitHub, click on the time label on the top of the comment and copy&paste that link
  - on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
+
+![](write-tip.png)
+
+
 
 ## Privacy
 
