@@ -23,26 +23,31 @@ may help hundreds of people every week.
 On the other hand, writing tips is a way to improve your profile. Samebug shows the tips you write and the libraries where you solve problems on your profile page, so you can get recognized as an
 expert of a component.
 
-## How to write a tip
+## Where to write tips
 
-Currently there are two ways to write a tip:
+Currently there are three ways to write a tip:
 
-- *as a solution for a search*: If you search with a stack trace, on the result page under the 'tips'
-tab you'll find a 'Write tip' button.
+- *as a solution for your search*: If you search with a stack trace, on the bottom of the page you'll find a 'Write tip' button.
+- *as a solution for an exception*: If you check an exception page, on the bottom of the page you'll find a 'Write tip' button.
 - *as an answer to a help request*: If you have an incoming help request, click 'Reply'.
+
+## How to write a tip
 
 When you write the tip, you have to write the actual message and optionally you can refer to a url
 as the source.
 
-- The message must be longer than 5 characters and cannot be longer than 256 characters. Please be
-straightforward, definite and short. Do not try to explain the details of the situation, but
- keep in mind what would've helped you the most when you got this exception for the first time.
-Do not cover multiple situations, rather write them as separate tips.
-- The source url should be filled only if tip you wrote is an extract of a content from an other
+- The message must be longer than 5 characters and cannot be longer than 256 characters.
+- Use markdown where necessary to highlight code fragments and urls. Use \` for quoting inline code and \`\`\` for quoting code blocks.
+- Be straightforward, definite and short.
+- Do not try to explain the details of the situation, but keep in mind
+ what would've helped you the most when you got this exception for the first time.
+- Do not cover multiple situations, rather write them as separate tips.
+
+You should fill the source url only if tip you wrote is an extract of a content from an other
 site on the Internet. Please always give credit to the original authors by linking the specific answer:
-	- on Stack Overflow, click the 'share' label under the answer and copy&paste that link
-	- on GitHub, click on the time label on the top of the comment and copy&paste that link
-	- on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
+ - on Stack Overflow, click the 'share' label under the answer and copy&paste that link
+ - on GitHub, click on the time label on the top of the comment and copy&paste that link
+ - on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
 
 ## Privacy
 
