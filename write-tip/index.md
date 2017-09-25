@@ -50,9 +50,7 @@ site on the Internet. Please always give credit to the original authors by linki
  - on GitHub, click on the time label on the top of the comment and copy&paste that link
  - on Google Groups, click the dropdown arrow on the top right of a comment and copy&paste the direct link
 
-![](write-tip.png)
-
-
+![Write tip](https://samebug.io/static/images/docs/write-tip.png)
 
 ## Privacy
 
