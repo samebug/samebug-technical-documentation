@@ -25,3 +25,8 @@ the plugin from the JetBrains plugin repository and install manually.
 1. Download the latest plugin version from the [repository](https://plugins.jetbrains.com/plugin/8174-samebug)
 2. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, and click ‘Install plugin from disk…’ in the bottom right corner.
 Select the zip file you downloaded in the first step and restart the IDE.
+
+## Log in
+
+After you restart the IDE, the Samebug tool window will open and ask you to log in. Sometimes however the tool window
+fails to open, in this case please open it manually and log in or create a new account.
