@@ -23,7 +23,7 @@ However, because they use Samebug, their effort and knowledge is no longer isola
 
 ## Asking bugmates
 
-Now if you have an exception and check it on Samebug, even if it doesn't have a solutions,
+Currently if you have an exception and check it on Samebug, even if it doesn't have a solution,
 you might find your bugmates there, and you can send them a [help request](/guide/help-requests).
 
 A help request is a stack trace and the description of the problem. The description might be
@@ -31,28 +31,28 @@ helpful for your bugmates to identify the problem in cases when the stack trace 
 but you can leave it empty if you want.
 
 When you send a help request, Samebug will notify your bugmates about it, and when they answer,
-Samebug will notify you. We think in this procedure everybody profits:
+Samebug will notify you. We think from this procedure everybody profits:
 
-- The bugmates did not have to write solutions in advance. Developers have lot of crashes, it
+- The bugmates did not have to write solutions in advance. Developers have lots of crashes, it
 is not realistic to expect them to write and publish the solution for all of them
-- You don't have to dig deep in a library looking for a problem that other people have already solved
+- You don't have to dig deep into a library looking for a problem that other people have already solved
 - The bugmates won't be spammed with irrelevant help requests, they see only those where the
-stack trace match suggests they can help.
-- When you mark the solution as helpful, you boost the author's [profile](/guide/profile).
+stack trace match suggests they can help
+- When you mark the solution as helpful, you boost the author's [profile](/guide/profile)
 
 ## Cancel help request
 
 If you are no longer interested in answers to your help request, you can revoke it on the same
-page where you requested it. At the moment it does not happen automatically even if you mark
+page where you requested it. Right now it does not happen automatically even if you mark
 one of the answers helpful.
 
 ## Privacy
 
-We know that many information that Samebug deals with might be sensitive, we have an
+We know that the information that Samebug deals with might be sensitive, we have an
 adequate idea about [privacy](/guide/privacy) even in this early phase.
 
 In the context of bugmates these concepts translate to:
 
-- If your searches are *Public*, other users can find you via bugmate match, and read the stack trace of the crash had.
+- If your searches are *Public*, other users can find you via bugmate match and read the stack trace of the crash you had.
 - If your searches are *Searchable*, other users can find you via bugmate match, but will not see the stack trace of the crash you had.
 - If your searches are *Private*, you will never show up as a bugmate for people who cannot access your workspace.
