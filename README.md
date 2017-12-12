@@ -6,7 +6,7 @@ Samebug automatically locates relevant solutions to your software crash from its
 
 By [searching](/guide/search) with a [stack trace](/guide/stack-trace) Samebug can provide you a
 more relevant [solution](/guide/solution)
-to your software crashes. You don’t have to browse through endless forums
+to your software crash. You don’t have to browse through endless forums
 and developer communities.
 
 ## Find relevant solutions to your problem
@@ -26,9 +26,9 @@ help to other community members.
 
 ### Mark the best solutions
 
-The semantical stack trace similarity algorithm can find you the most relevant stack trace, but
+The semantic stack trace similarity algorithm can find the most relevant stack trace, but
 not the most relevant content. We need the Community to [rate the solutions](/guide/solution/rating-solutions)
-in order to make Samebug learn what are the good solutions.
+in order to make Samebug learn which solutions work.
 
 ## Privacy
 
@@ -37,16 +37,15 @@ share your stack trace [without your permission](/guide/workspace).
 
 ## Integrated with your IDE
 
-Integration allows you to get solutions from the database, ask for help from
+Our integration allows you to get solutions from the database, ask for help from
 others with the same bug and write solutions without switching to the internet
-and abandoning your workflow. Install it for [IntelliJ Idea](/guide/integration/intellij-idea/install)
-or for [Android Studio](/guide/integration/android-studio/install).
+and abandoning your workflow. Install it for [IntelliJ Idea](/guide/integration/intellij-idea/install), [Android Studio](/guide/integration/android-studio/install) or [Eclipse](/guide/integration/eclipse).
 
 ## Experimental features, feature request
 
 Samebug aggregates a huge amount of information collected from the Internet and from our users.
-We want to share this knowledge, and we have a lot of ideas how to present and use this data,
+We want to share this knowledge, and we have a lot of ideas on how to present and use this data,
 but it is not our focus. Check our [experimental features](/guide/experimental-features) if you are
 interested.
 
-If you have an other idea what Samebug can be used for, feel free to [contact us](mailto:hello@samebug.io).
+If you have other ideas for what Samebug can be used for, feel free to [contact us](mailto:hello@samebug.io).
