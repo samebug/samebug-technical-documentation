@@ -1,14 +1,14 @@
 # Samebug profile
 
-We think that your activity on Samebug is something you could be proud of and worth sharing.
+We think that your activity on Samebug is something you should be proud of and share with the world.
 You should not be ashamed about the crashes you have. They show your journey as a professional
-developer. They show which libraries you have experience with, show when you started
-experimenting with a new technology, show the progress you make.
+developer. They show which libraries you have experience with, when you started
+experimenting with a new technology and the progress you make.
 Moreover, you can [write solutions](/guide/write-tip), actually help people having problems and collect
 'Thanks' from other users to boost your profile.
 
-To access your profile page, log in Samebug and click on your avatar on the top right. You can
-see and change your profile information, and on the tabbed view you can have an overview about your activities.
+To access your profile page, log into Samebug and click on your avatar at the top right. You can
+see and change your profile information, and on the tabbed view you can have an overview of your activities.
 
 ## Overview
 
@@ -29,10 +29,6 @@ On this tab we show a list of the queries you submitted to Samebug. Click them t
 ## Tips
 
 On this tab we show a list of tips you wrote.
-
-## My help requests
-
-On this tab we show a list of [help requests](/guide/help-requests) you created.
 
 ## Incoming help requests
 
