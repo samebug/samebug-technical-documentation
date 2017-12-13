@@ -1,6 +1,6 @@
 # Workspaces and permissions
 
-A workspace usually corresponds to a team of developers working on a project. A Samebug user can access to multiple workspaces and a workspace can be associated with multiple users. Workspaces are useful to organize and control the visibility of content generated during the project development.
+A workspace usually corresponds to a team of developers working on a project. A Samebug user can access multiple workspaces and a workspace can be associated with multiple users. These are useful to organize and control the visibility of content generated during the project development.
 
 ## Workspace visibility
 
@@ -13,7 +13,7 @@ You can grant access to other Samebug users for your workspace by adding differe
 | Permission name | Available actions |
 |---|---|
 | Admin  | can manage the workspace, grant or revoke permission of workspace users, change workspace settings |
-| Read   | can see the stack trace details of content in the workspace (as if it was `Public` for him) |
+| Read   | can see the stack trace details of the content in the workspace (as if it was `Public` for him) |
 | Search | can find content in the workspace by stack trace search (but not see the details, as if it was `Searchable` for him) |
 | Write  | can create new content in the workspace, i.e. can send crash or create tip |
 
@@ -23,5 +23,4 @@ As we mentioned, any activity you do on Samebug happens in a workspace. If you d
 
 ## Managing workspaces
 
-At the moment workspaces are an invisible feature. If you want to create new workspace, invite other users or change
-the default visibility, please [contact us](mailto:hello@samebug.io)
+If you want to manage changes to your workspace, go to the Workspaces tab on your Profile. Here you can create a new workspace and by clicking on any of the workspaces you can view details about, add/remove members, grant permissions and set [visibility](/guide/privacy).
