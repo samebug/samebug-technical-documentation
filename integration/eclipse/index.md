@@ -1,6 +1,6 @@
 # Samebug Eclipse Plugin User Guide 
 
-*This guide gives the necessary information on how to install and use the Samebug plugin for Eclipse*.
+*This guide provides the necessary information on how to install and use the Samebug plugin for Eclipse*.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ Samebug automatically locates relevant solutions to your software crashes from i
 By searching with a stack trace Samebug can provide you a more relevant solution to your software crashes without having to browse through endless forums and developer communities.
 
 ### Prerequisites
-Before installing the plugin make sure you sign up for a user account at [Samebug](https://samebug.io/).
+Before installing the plugin make sure you sign up for a user account at [Samebug](https://samebug.io/signup).
 The current plugin version is compatible with Eclipse Oxygen.
 
 ### Installation 
@@ -27,7 +27,7 @@ When prompted with the "Are you sure you want to install..." message dialog, cli
 #### Through the URL
 Click on "Install new software" under Help.
 
-![](newsoftware.png)
+![](https://samebug.io/static/images/docs/newsoftware.png)
 
 Click on the "Add" button, paste the link [https://samebug.io/dl/eclipse/oxygen/](https://samebug.io/dl/eclipse/oxygen/) and click on "OK".
 
@@ -39,7 +39,7 @@ Select the Samebug Feature and click on "Next".
 
 ![](https://samebug.io/static/images/docs/eclipse-select.png)
 
-After agreeing to the terms of license, click on "Finish". After the installation, restart your Eclipse.
+After agreeing to the terms of license, click on "Finish". After the installation, restart Eclipse.
 
 ## Using the Plugin 
 Click on the Samebug icon in the Eclipse toolbar.

@@ -1,6 +1,6 @@
 # Install the IntelliJ Idea plugin
 
-The plugin allows you to use Samebug directly from IntelliJ Idea (or [Android Studio](/guide/integration/android-studio/install)),
+The plugin allows you to use Samebug directly from IntelliJ Idea (works for [Android Studio](/guide/integration/android-studio/install) and [Eclipse](/guide/integration/eclipse) as well):
 get solutions or ask for help without abandoning your workflow.
 
 JetBrains maintains a repository of plugins and offers seamless installation. However, when
@@ -14,8 +14,8 @@ You can install the plugin for IntelliJ Idea 15 or later versions.
 
 Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type 'samebug'
 in the search box. Because Samebug is not maintained by JetBrains, you have to click the
-'Browse repositories' button on the bottom. Select Samebug and click 'Install' on the right.
-Don't forget that you have to restart the IDE to make the install take effect.
+'Browse repositories' button at the bottom. Select Samebug and click 'Install' on the right.
+Don't forget that you have to restart the IDE for the installation to take effect.
 
 ## Install manually
 
@@ -28,5 +28,5 @@ Select the zip file you downloaded in the first step and restart the IDE.
 
 ## Log in
 
-After you restart the IDE, the Samebug tool window will open and ask you to log in. Sometimes however the tool window
+After you restart the IDE, the Samebug tool window will open and ask you to log in. Sometimes, however, the tool window
 fails to open, in this case please open it manually and log in or create a new account.

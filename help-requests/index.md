@@ -5,21 +5,20 @@ sent to [bugmates](/guide/bugmate) (Samebug users who can probably help).
 
 ## How to create a help request
 
-You can open a help request when you [search](/guide/search) with a [stack trace](/guide/stack-trace). Click the 'Ask bugmates'
-under the bugmate list; you can do this even when there are no bugmates at the moment.
-You can write a description to give some context to the stack trace for the bugmates.
+You can open a help request when you [search](/guide/search) with a [stack trace](/guide/stack-trace). Click the 'Ask bugmates'button
+under the bugmates list; you can do this even if there are no bugmates at the moment.
+You can write a description to give some context to the stack trace for your bugmates.
 
 ## How bugmates are notified
 
 When you send your help request, Samebug will notify your bugmates in the most appropriate
-manner for them: a notification in the [IDE](/guide/integration/intellij-idea/install) or in the browser, or an email. Moreover,
-they will see their incoming help request on their [profile page](/guide/profile).
+manner for them: a notification in their [IDE](/guide/integration/intellij-idea/install), browser or email. Moreover,
+they will see an incoming help request on their [profile page](/guide/profile).
 
-Samebug makes sure that the bugmates will find the stack trace in your help request relevant, however
-it is not guaranteed that they already know the solution for that problem.
+Samebug makes sure that your bugmates will find the stack trace in your help request relevant, however
+it is not guaranteed that they will already know the solution for that problem.
 
-## How you get notified about the answer?
+## How you get notified about the answer
 
-When someone answers your help request, Samebug notifies you with a notification in
-the [IDE](/guide/integration/intellij-idea/install) or in the browser, or by an email.
-Also, you can check your open help requests on your [profile page](/guide/profile).
+When someone answers your help request, Samebug sends a notification to
+your [IDE](/guide/integration/intellij-idea/install), browser or email.
