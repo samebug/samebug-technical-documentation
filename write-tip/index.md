@@ -26,7 +26,7 @@ On the other hand, writing tips is a way to improve your profile. Samebug shows 
 Currently there are two ways to write a tip:
 
 - *as a solution for your search*: If you search with a stack trace, at the bottom of the page you'll find a 'Write tip' button.
-- *as a solution for an exception*: If you check an exception page, at the bottom of the page you'll find a 'Write tip' button.
+- *as a solution for an exception*: If you check an exception page, at the right side of the page you'll find a 'Write tip' button.
 
 ## How to write a tip
 
