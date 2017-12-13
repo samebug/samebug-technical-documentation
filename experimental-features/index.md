@@ -29,7 +29,7 @@ we found on the Internet.
 
 ## Forecast, crash prevention
 
-Even when experts make a beginner's mistake when they start using a fresh library, wouldn't it
+Even experts make a beginner's mistake when they start using a fresh library, wouldn't it
 be nice if Samebug could warn you when you are using a method that caused a headache for other users?
 Samebug does have a concept about which methods are problematic in this sense. If you
 use the IDE plugin, Samebug could detect usage of such methods and show you some tips in advance.
