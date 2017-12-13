@@ -1,10 +1,10 @@
 # Experimental features
 
-Samebug does not handle stack traces as plain text, but has a deep understanding on them;
+Samebug does not handle stack traces as plain text, but has a deep understanding of them;
 knows about exception type hierarchies, chained exceptions, generated codes and third party libraries.
-During our research we noted that having information about which stack frames belong which
+During our research we noted that having information about which stack frames belong to which
 third party component not only made our stack trace similarity metrics better, but also
-gave us some really exciting oppurtinities. While this is not our main focus now, we still
+gave us some really exciting opportunities. While this is not our main focus now, we still
 want to show this interesting dataset and give you an idea about our future plans with this.
 
 ## Explore, crash statistics
@@ -12,7 +12,7 @@ want to show this interesting dataset and give you an idea about our future plan
 Have you ever been in a situation where you had to evaluate open source alternatives of a library?
 You check the features they offer, take a look at the speed of development and support,
 check their issues on github. Samebug crash statistics could be a valuable addition in
-these cases, showing thing like:
+these cases, showing things like:
 
 - how many users had crash using this library
 - how many different kind of exceptions originated from this library
@@ -24,13 +24,13 @@ of third party components, and you can dig deeper by checking their packages, cl
 and at last it shows the list of exceptions ever thrown by (or passed through) this method. Now
 click on an exception type to see the cases where this method has thrown that exception.
 
-Currently this service does not uses the searches of our users, it uses only the stack traces
+Currently this service does not use the searches of our users, only the stack traces
 we found on the Internet.
 
 ## Forecast, crash prevention
 
-Even when experts make beginner's mistake when they start using a fresh library. Wouldn't it
-be nice if Samebug could warn you when you are using a method that caused headache for other users?
+Even experts make a beginner's mistake when they start using a fresh library, wouldn't it
+be nice if Samebug could warn you when you are using a method that caused a headache for other users?
 Samebug does have a concept about which methods are problematic in this sense. If you
 use the IDE plugin, Samebug could detect usage of such methods and show you some tips in advance.
 
