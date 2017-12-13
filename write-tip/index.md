@@ -54,4 +54,4 @@ In the context of tips written by you these concepts translate to:
 
 - If your tip is **Public**, other users can find it via stack trace search and read the stack trace of the crash had.
 - If your tip is **Searchable**, other users can find it via stack trace search, but will not see the stack trace of the crash you had.
-- If your tip is **Private**, it will never show up for people who cannot access your workspace.
+- If your tip is **Private**, it will never show up for people who cannot access your workspace. This is only available in the paid version ([Private Package](/pricing)).
