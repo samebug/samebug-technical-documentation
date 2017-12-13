@@ -17,7 +17,7 @@ Normally, when Idea notices that a plugin update is available, you’ll see a no
 
 ![](https://samebug.io/static/images/docs/settings-plugins.png "Settings window can be opened with Ctrl+Alt+S")
 
-If you've disabled auto-update, you have to update Samebug manually. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type ‘samebug’ in the search box. If there is a new version, just click on the blue ‘Update’ button. Don’t forget that you have to restart the IDE to make the update take effect.
+If you've disabled auto-update, you have to update Samebug manually. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type ‘samebug’ in the search box. If there is a new version, just click on the blue ‘Update’ button. Don’t forget that you have to restart the IDE for the update to take effect.
 
 ## Worst case: Manual install
 
