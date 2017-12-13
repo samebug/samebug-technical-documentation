@@ -1,37 +1,31 @@
 # Samebug profile
 
 We think that your activity on Samebug is something you should be proud of and share with the world.
-You should not be ashamed about the crashes you have. They show your journey as a professional
+You should not be ashamed of the crashes you have. They show your journey as a professional
 developer. They show which libraries you have experience with, when you started
 experimenting with a new technology and the progress you make.
 Moreover, you can [write solutions](/guide/write-tip), actually help people having problems and collect
 'Thanks' from other users to boost your profile.
 
 To access your profile page, log into Samebug and click on your avatar at the top right. You can
-see and change your profile information, and on the tabbed view you can have an overview of your activities.
+see and change your profile information, create an organization, see some statistics about your tips, thanks and bugmates. On the tabbed view you can have an overview of your activities.
 
 ## Overview
 
-On this tab we show statistics about all your activities:
+On this tab we show how much expertise you have in different components.
 
-- Crashes: the number of [stack trace searches](/guide/search) you submitted to Samebug.
-- Bugs: bugs are a collection of stack traces that Samebug thinks to be similar enough to treat them as the same.
-E.g. if you submit exactly the same stack trace twice, they will count as two crashes, but one bug.
-- Votes: the number of solutions you [marked as helpful](/guide/solution/rating-solutions).
-- Crashtags: [crash tags](/guide/solution/crash-tag) are created when you mark a solution as helpful from a stack trace search.
-- Tips: the number of [tips](/guide/write-tip) you wrote.
-- Thanks: the number of times your [crash tags](/guide/solution/crash-tag) were [marked as helpful](/guide/solution/rating-solutions).
+## Workspaces
 
-## Search history
-
-On this tab we show a list of the queries you submitted to Samebug. Click them to see the search result page.
+On this tab you can see your available workspaces, set any of the as active and view details by clicking on them.
 
 ## Tips
 
-On this tab we show a list of tips you wrote.
+On this tab we show a list of [tips](/guide/write-tip) you wrote.
 
-## Incoming help requests
+## Bugmates
 
-On this tab we show a list of [help requests](/guide/help-requests) created by other Samebug users. You will
-only see help request where you can help, or at least Samebug assumes that you can help based on your
-activity on Samebug.
+On this tab we show the total number of bugmates you've ever met. They are people who had the same problem as you.
+
+## Searches
+
+On this tab we show a list of the queries you submitted to Samebug, your [search](/guide/search) history. Click any of them to see the search result page.
