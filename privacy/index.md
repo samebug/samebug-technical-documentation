@@ -5,7 +5,7 @@ We know that privacy can be an issue when dealing with stack traces. The stack t
 For every content you create on Samebug (at the moment there are crashes and solutions), you can specify three levels of visibility: *Public*, *Searchable* and *Private*.
 
 - **Public** means that you don't consider the content sensitive. It's available openly on the Internet, anybody can access it.
-- **Private** is exactly the opposite, only those Samebug users can access it who are granted permission by you. Others won't even know it exists. This is option only available in the [Private Package](/pricing).
+- **Private** is exactly the opposite, only those Samebug users can access it who are granted permission by you. Others won't even know it exists. This is only available in the paid version ([Private Package](/pricing)).
 - **Searchable** is a fine middle ground between being totally open or close. Broadly it means that your stack trace is private, but the content attached to it is public.
 
 ## Detailed explanation
@@ -31,4 +31,4 @@ Choosing which visibility level you should use depends on your situation. The mo
 
 - **Public**: This is great if you are learning, exploring a new library, working on your pet project or doing open source development. Your stack traces are available for everybody. This is the default for unregistered Samebug users.
 - **Searchable**: You should choose this level if you're afraid that sensitive information might leak into the exception message of your stack traces, but you don't mind if others know what kind of applications you are developing. People will see your journey and know the libraries you have experience with. When another developer searches with a stack trace similar to one you saw, they can ask you for help, but Samebug will only show them the matching stack frames, neither the ones unique to you nor the exception message. This is the default for registered Samebug users.
-- **Private**: You should consider this level if you think that any information about your development is an attack vector on you or your company. On private visibility you contribute nothing to the Community. This is available in the [paid version](/pricing) only.
+- **Private**: You should consider this level if you think that any information about your development is an attack vector on you or your company. On private visibility you contribute nothing to the Community. This is only available in the paid version ([Private Package](/pricing)).
