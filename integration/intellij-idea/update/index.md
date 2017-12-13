@@ -5,19 +5,19 @@ sometimes things just don’t work, so let us give you a complete walk-through o
 
 ## Prerequisites
 
-We assume you already have the Samebug plugin installed. If you need help with the first installation, click [here](/guide/integration/intellij-idea/install)
+We assume you already have the Samebug plugin installed. If you need help with the first installation, click [here](/guide/integration/intellij-idea/install).
 
 ## Best case: auto-update
 
 ![](https://samebug.io/static/images/docs/update-plugin-popup.png "Plugin update notification in the bottom right corner")
 
-Normally, when Idea notices that a plugin update is available, you’ll see a notification. Just click on the link, and Idea will take care of the rest. Don’t forget that you have to restart the IDE to make the update take effect.
+Normally, when Idea notices that a plugin update is available, you’ll see a notification. Just click on the link, and Idea will take care of the rest. Don’t forget that you have to restart the IDE for the update to take effect.
 
 ## Manual update
 
 ![](https://samebug.io/static/images/docs/settings-plugins.png "Settings window can be opened with Ctrl+Alt+S")
 
-If you disabled auto-update, you have to update Samebug manually. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type ‘samebug’ in the search box. If there is a new version, you just click on the blue ‘Update’ button. Don’t forget that you have to restart the IDE to make the update take effect.
+If you've disabled auto-update, you have to update Samebug manually. Open the Settings window by pressing `Ctrl`+`Alt`+`S`, select Plugins and type ‘samebug’ in the search box. If there is a new version, just click on the blue ‘Update’ button. Don’t forget that you have to restart the IDE for the update to take effect.
 
 ## Worst case: Manual install
 
