@@ -7,7 +7,7 @@ Paste the full [stack trace](/guide/stack-trace) into the search box and you wil
 
 ![](https://samebug.io/static/images/docs/tip.png "Tip")
 
-[Tips](/guide/write-tip) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about how to fix or work around the problem as soon as possible. They are often just the essence of a longer discussion, e.g. the extract of the accepted answer of a Stack Overflow question. In these cases you will find the url of the source in the tip if you want check the details.
+[Tips](/guide/write-tip) are short solutions to an exception written by other Samebug users. Their purpose is to give you a hint about how to fix or workaround the problem as soon as possible. They are often just the essence of a longer discussion, e.g. the extract of the accepted answer of a Stack Overflow question. In these cases you will find the url of the source in the tip if you want check the details.
 
 ## External solutions
 
