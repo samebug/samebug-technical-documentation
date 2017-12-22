@@ -1,4 +1,4 @@
-# Samebug
+# Overview
 
 Samebug automatically locates relevant solutions to your software crash from its expert community and solution database.
 
