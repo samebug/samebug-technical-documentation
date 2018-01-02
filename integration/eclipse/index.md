@@ -27,7 +27,7 @@ When prompted with the "Are you sure you want to install..." message dialog, cli
 #### Through the URL
 Click on "Install new software" under Help.
 
-![](https://samebug.io/static/images/docs/newsoftware.png)
+![](https://samebug.io/static/images/docs/eclipse-newsoftware.png)
 
 Click on the "Add" button, paste the link [https://samebug.io/dl/eclipse/oxygen/](https://samebug.io/dl/eclipse/oxygen/) and click on "OK".
 
