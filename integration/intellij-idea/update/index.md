@@ -1,4 +1,4 @@
-# Update the IntelliJ plugin
+# Update the IntelliJ Idea plugin
 
 JetBrains has a pretty good built-in mechanism for plugin updates. However,
 sometimes things just don’t work, so let us give you a complete walk-through on it.
